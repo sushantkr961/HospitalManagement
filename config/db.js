@@ -16,5 +16,3 @@ const connectDB = async () => {
 };
 
 module.exports = connectDB;
-
-// mongodb+srv://mernyoutube:mernyoutube@cluster0.nj5g05u.mongodb.net/jasoberoi
