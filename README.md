@@ -36,13 +36,3 @@ The Hospital Management System is a web application designed to streamline and a
 3. Set up the database connection in the `config/db.js` file.
 4. Start the application: `npm start`
 5. Open your web browser and visit: `http://localhost:3000`
-
-## Usage
-
-1. Access the application through the provided URL or port number.
-2. Sign in using your credentials or create a new account if you don't have one.
-3. Explore the different sections of the application to manage doctors, patients, appointments, and medical services.
-4. Use the search functionality to find specific doctors, patients, or appointments.
-5. Schedule appointments between doctors and patients.
-6. Generate reports or access the dashboard for administrative tasks.
-7. Log out when you're done using the application.
