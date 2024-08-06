@@ -1,6 +1,4 @@
 <div align="center">
-  <a href="http://www.mayaramein.com/"><img src="https://i.imgur.com/8EekJZH.png" width=150  /></a>
-
   ## Backend NodeJs Development
 
   ![](https://img.shields.io/badge/NodeJs-ebdcff?style=flat&logo=node.js&logoColor=black) ![](https://img.shields.io/badge/ExpressJs-ebdcff?style=flat&logo=express&logoColor=black) ![](https://img.shields.io/badge/Javascript-ebdcff?style=flat&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/MongoDB-ebdcff?style=flat&logo=mongodb&logoColor=black) ![](https://img.shields.io/badge/Mogoose-ebdcff?style=flat&logo=mongoose&logoColor=black)
@@ -51,29 +49,4 @@ The Hospital Management System is a web application designed to streamline and a
 5. Schedule appointments between doctors and patients.
 6. Generate reports or access the dashboard for administrative tasks.
 7. Log out when you're done using the application.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. Follow the contribution guidelines and coding conventions mentioned in the project to ensure a smooth collaboration process.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
-## Contact
-
-<div align="center">
- <a href="http://www.mayaramein.com/"><img src="https://i.imgur.com/QwGkBal.png"  width=120  /></a>
- 
-![](https://img.shields.io/badge/Data_Scientist-ebdcff?style=flat) ![](https://img.shields.io/badge/Software_Engineer-ebdcff?style=flat)  ![](https://img.shields.io/badge/Full_Stack_Web_Developer-ebdcff?style=flat)  
-
-
-  [![](https://img.shields.io/badge/Microsoft_Outlook-ffcb33?style=for-the-badge&logo=microsoft-outlook&logoColor=black)](mailto:mayaramein@outlook.com) [![](https://img.shields.io/badge/website-ffcb33?style=for-the-badge&logo=About.me&logoColor=black)](https://mayaramein.com)
-[![](https://img.shields.io/badge/LinkedIn-ffcb33?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/mayaramein) 
-
-</div>
-
-
-
 
